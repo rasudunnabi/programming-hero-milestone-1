@@ -1,0 +1,26 @@
+@font-face {
+    font-family: zh-cn; 
+    src: url(zh-cn.ttf);
+}
+body {
+    background-color:#20242C ;
+    font-family: zh-cn;
+    line-height: 30px;
+    font-size: larger;
+}
+img {
+    margin: auto;
+    width: 250px;
+    display: block;
+}
+.scarahida {
+    border-radius: 8px;
+    width: 500px;
+    /* display: none; */
+}
+#border {
+    border: 3px solid #4C5067;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 8px;
+}
